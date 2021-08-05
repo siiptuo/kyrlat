@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: 2021 Tuomas Siipola
+# SPDX-License-Identifier: CC0-1.0
+
+__pycache__/
+dist/
+*.egg-info/
